@@ -46,7 +46,9 @@ Data source: **Medeasy** website ([www.medeasy.com](http://www.medeasy.com))
 ## 4. Results
 
 ### 4.1 Data Space
-- Initial dataset: 4,831 rows, 7 columns.  
+
+-Dataset is scraped from Meadeasy, using selenium 
+- Initial dataset: 4,831 rows, 7 columns. 
 - Processed dataset: 4,627 rows after cleaning.  
 - Cleaning process included:
   - HTML tag removal.  
