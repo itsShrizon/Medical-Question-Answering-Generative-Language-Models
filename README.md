@@ -1,4 +1,4 @@
-```markdown
+
 # Enhancing Medical Question Answering with Retrieval Augmentation and Reranking Transformer Embeddings in Generative Language Models
 
 ## Authors
