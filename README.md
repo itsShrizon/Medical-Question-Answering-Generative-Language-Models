@@ -108,4 +108,4 @@ This project utilized **RAG** and `mistralai/Mistral-7B-Instruct-v0.1` with **4-
 3. Transformer Models with Better Relative Position Embeddings.  
 4. Parameter-Efficient Sparse Retrievers and Rerankers using Adapters.  
 5. Zhou, Y., et al. (2023). Towards Robust Ranker for Text Retrieval.
-```
+
