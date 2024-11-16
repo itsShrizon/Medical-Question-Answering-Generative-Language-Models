@@ -3,9 +3,7 @@
 
 ## Authors
 - Tanzir Hossain (20301154), BRAC University, Bangladesh  
-- Shabab Abdullah (20301005), BRAC University, Bangladesh  
-- Ar-Rafi Islam (20301164), BRAC University, Bangladesh  
-- Jannatul Ferdoshi (20301193), BRAC University, Bangladesh  
+- Ar-Rafi Islam (20301164), BRAC University, Bangladesh   
 - Annajiat Alim Rasel, BRAC University, Bangladesh  
 
 ## Abstract
